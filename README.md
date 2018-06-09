@@ -1,4 +1,5 @@
 # hello-world
-just a repository
+just repository
 Hi Humans!
 Hello World!
+just repository.
